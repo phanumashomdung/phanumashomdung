@@ -11,7 +11,7 @@
 
 ## 👋 Hello, I'm Phanumas 
 
-🎓 IT Student  
+🎓 DST Student  
 💻 Interested in Web Development & Database  
 📚 Learning PHP, HTML, CSS, MySQL  
 
